@@ -1,0 +1,5 @@
+# Style and Themes
+
+Studio Ghibli films are mostly hand-drawn using rich watercolor and acrylic paints. The films use traditional methods of making animation where every frame is drawn and colored by hand. Computer animation techniaues are used sparingly. All the Studio Ghibli films use bright colors, and have a "whimsical and joyful aesthetic". Studio Ghibli's art style tends to be more of a cozy European style that put a lot of undertones on the background and nature in the scene. A notable exception is 'The Tale of the Princess Kaguya', directed by Takahata, which departs from Ghibli's typical style by employing a soft watercolor palette and storybook-like aesthetic reminiscent of Japanese folk art. This approach aimed to reflect the emotions and inner struggles of the characters and highlight the hand-drawn animation.
+
+The films often focus on the lives of youth, especially school children. Common themes include the risks posed by progress to tradition, environmentalism and the natural world, independent female protagonists, the cost of war, and youth.
